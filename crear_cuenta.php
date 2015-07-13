@@ -39,8 +39,10 @@ $idconexion =ConectarServidor();
 			
 			$pass1=md5($pass1);
 			$pass2=md5($pass2);
-			
-
+	
+	
+	
+	
 			 if($usuario !="" && $pass1 !="" && $pass2!=""){
 			 	echo "<script>alert('tienen valor');</script>";
 				if($pass1 == $pass2){
@@ -98,6 +100,7 @@ $idconexion =ConectarServidor();
 			echo $cedula."<br>";
 			echo $direccion."<br>";
 			echo $telefono."<br>";
+			echo esto es un ejemplo de git hub"<br>";
 			*/
 		}
 		
