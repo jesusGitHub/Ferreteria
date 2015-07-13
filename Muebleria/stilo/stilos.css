@@ -1,0 +1,50 @@
+.mio{
+	
+	color: blue;
+	display: block;
+	background-color: red;
+	text-align:right;
+	
+}
+.content-body{
+	width: 70%;
+	margin: 0 auto;
+	padding-bottom: 8%;
+	
+	
+}
+.tex-person{
+	width: 25%;
+	height: 30px;
+	
+		
+}
+.cabecera{
+	
+	background: rgba(48,48,96,1);
+	border:2px solid #fff;
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 10px;
+	padding: 10px 5px;
+	width: 100%;
+	font-size:15px;
+	/*text-align: center;*/
+}
+.color-black{
+	
+	color:#000;
+	
+}
+.color-white{
+	color:#FFFFFF;
+	
+}
+.body-panel{
+		
+	background-color: rgba(255,255,255,0.5);
+	margin-top: 10px;
+	padding: 10px 5px;
+	width: 100%;
+	
+}
